@@ -128,7 +128,6 @@ header > .container {
 #support > .container {
   padding: 5rem 10rem;
   padding-top: 0rem;
-
 }
 .support-main {
   background-color: rgba(0.153, 0.153, 0.153, 0.05);
@@ -139,7 +138,7 @@ header > .container {
   align-items: center;
   justify-content: center;
 }
-.support-images{
+.support-images {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -425,4 +424,18 @@ footer > h1 {
 .p2 > a:hover {
   color: rgb(215, 45, 82);
 }
+
+.btn-ex {
+  background-color: rgb(215, 45, 82);
+  
+}
+.btn-ex > a {
+  text-decoration: none;
+}
+
+.btn-ex:hover {
+  background-color: black;
+  color: white;
+}
+
 /* Footer End */
