@@ -67,4 +67,4 @@ garden-grace
 ```
 ## License
 
-This project is licensed under the **Unlicense** - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the [UNLICENSE](LICENSE.md).
