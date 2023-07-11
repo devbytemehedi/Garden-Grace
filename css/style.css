@@ -255,7 +255,7 @@ header > .container {
 .sub_full {
   margin-top: 7rem;
   padding: 0rem 10rem 5rem 10rem;
-  background: url("/assets/images/sub_img.png");
+  background: url("../assets/images/sub_img.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -427,7 +427,6 @@ footer > h1 {
 
 .btn-ex {
   background-color: rgb(215, 45, 82);
-  
 }
 .btn-ex > a {
   text-decoration: none;
