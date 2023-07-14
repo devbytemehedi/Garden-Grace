@@ -1,8 +1,9 @@
-![](./assets/favicons/android-chrome-192x192.png)
-
-# Garden Grace
-
-> A flower shop website project curating nature's beauty in every bouquet.
+<div align="center"><a href="https://github.com/devbytemehedi/garden-grace.git"><img src="./assets/favicons/android-chrome-192x192.png"></a></div>
+<div align="center">
+ <h1><strong>Garden Grace</strong></h1>
+ <p><strong>A flower shop website project curating nature's beauty in every bouquet.</strong></p>
+</div>
+<div align="center"><a href="https://devbytemehedi.github.io/garden-grace"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"></a> <a href="https://garden-grace.netlify.app"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></a></div>
 
 ## Features
 
